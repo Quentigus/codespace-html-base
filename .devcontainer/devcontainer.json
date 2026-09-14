@@ -14,6 +14,7 @@
                 "PKief.material-icon-theme"
             ],
             "settings": {
+                "workbench.iconTheme": "material-icon-theme",
                 "liveServer.settings.root": "/src",
                 "liveServer.settings.ChromeDebuggingAttachment": true,
                 "liveServer.settings.port": 4200,
